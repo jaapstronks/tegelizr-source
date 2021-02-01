@@ -1,0 +1,19 @@
+{
+  "name": "tegelizr-source",
+  "version": "1.0.0",
+  "description": "vvdalizer",
+  "main": "lintme.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulvanbuuren/tegelizr-source.git"
+  },
+  "author": "Jaap Stronks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulvanbuuren/tegelizr-source/issues"
+  },
+  "homepage": "https://github.com/paulvanbuuren/tegelizr-source#readme"
+}
